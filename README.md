@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm George! 👋
 
-<!--
-**georgeandrecavalcanti/georgeandrecavalcanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mechanical Engineering Student  
+🚗 Automotive & Motorsport Enthusiast  
+💡 Interested in Technology and Innovation  
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Mechanical Engineering student with a strong interest in
+automotive engineering, motorsport, technology and innovation.
+
+I'm currently focused on developing my academic knowledge and
+building new skills through my studies and personal projects.
+
+## 🎓 Education
+
+- Mechanical Engineering — Currently studying
+
+## 📚 Currently Learning
+
+- Microsoft Excel
+- Power BI
+- Data Analysis
+- Git & GitHub
+
+## 🚗 Areas of Interest
+
+- Automotive Engineering
+- Motorsport & Formula 1
+- Mechanical Engineering
+- Technology & Innovation
+- Data Analysis
+
+## 🎯 Career Goals
+
+I'm looking for opportunities to gain practical experience,
+develop my technical skills and contribute to engineering projects.
+
+## 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/georgecavalcanti/)
